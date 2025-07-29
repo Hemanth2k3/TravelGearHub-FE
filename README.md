@@ -29,5 +29,5 @@ Welcome to **TravelGearHub**, a full-stack web application that connects travel 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/TravelGearHub-FE.git
+   git clone https://github.com/Hemanth2k3/TravelGearHub-FE.git
    cd TravelGearHub-FE
